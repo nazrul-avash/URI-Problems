@@ -1,0 +1,5 @@
+number = int(input())
+hours = int(input())
+per = float(input())
+print("NUMBER =",number)
+print(f"SALARY = U$ {hours*per:.2f}")
