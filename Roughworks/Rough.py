@@ -1,2 +1,5 @@
-numbers = [4,5,67,7]
-print(" ".join(numbers))
+a = 4
+b = 6
+a = a + 2**32
+b = b+ 2**32
+print((a|b)-(2**32))
