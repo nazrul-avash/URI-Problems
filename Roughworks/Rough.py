@@ -1,2 +1,4 @@
-numbers = [5,6,9]
-print(2000**2)
+a = b = 200
+a+=5
+print(b)
+print(a)
