@@ -1,5 +1,4 @@
-a = 4
-b = 6
-a = a + 2**32
-b = b+ 2**32
-print((a|b)-(2**32))
+a = b = 200
+a+=5
+print(b)
+print(a)
