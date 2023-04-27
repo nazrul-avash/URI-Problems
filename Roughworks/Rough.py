@@ -1,4 +1,3 @@
-a = b = 200
-a+=5
-print(b)
-print(a)
+import math
+
+print(math.sqrt(6))
